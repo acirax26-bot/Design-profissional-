@@ -66,3 +66,43 @@ git add .
 git commit -m "Mensagem de comentário"
 git push
 ```
+
+## Citações 
+
+`> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.`
+
+>Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+## Tabelas 
+
+```
+| Tecnologia | Finalidade |
+| --- | --- |
+| Git | Controle de versões |
+| GitHub | Hospedagem e colaboração | 
+| Markdown | Documentação | 
+```
+
+| Tecnologia | Finalidade |
+| --- | --- |
+| Git | Controle de versões |
+| GitHub | Hospedagem e colaboração | 
+| Markdown | Documentação |
+
+```
+| Esquerda | Centro | Direita |
+| :--- | :---: | ---: | 
+| texto | texto | texto |
+```
+
+
+| Esquerda | Centro | Direita |
+| :--- | :---: | ---: | 
+| texto | texto | texto |
+
+## Imagens 
+
+`![Palmeiras](./Imagens/Palmeiras.jpg)`
+
+![Palmeiras](./Imagens/Palmeiras.jpg)
+
